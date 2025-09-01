@@ -21,3 +21,11 @@ List of errors:
         "gps_com":      "107"
         "gps_fail":     "207"
         "general_fail": "999"
+
+
+
+        source venv/bin/activate
+
+        source /opt/ros/rolling/setup.zsh
+        
+        pip install -r requirements.txt
