@@ -1,0 +1,6 @@
+Examples:
+ros2 topic pub /sensor_errors std_msgs/String "data: 'imu_com'"
+
+ros2 topic pub /sensor_errors std_msgs/String "data: 'camera_fail, gps_fail, imu_com'"
+
+ros2 topic pub /sensor_errors std_msgs/String "data: ''"
