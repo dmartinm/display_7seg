@@ -1,0 +1,9 @@
+# Adafruit HT16K33 7-segment display
+adafruit-circuitpython-ht16k33
+
+# Blinka dependency for CircuitPython on Linux
+adafruit-blinka
+
+# ROS 2 Python client library and standard messages
+rclpy
+std_msgs
