@@ -7,3 +7,6 @@ adafruit-blinka
 # ROS 2 Python client library and standard messages
 rclpy
 std_msgs
+
+# Python
+numpy
